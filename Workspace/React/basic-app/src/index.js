@@ -10,10 +10,10 @@ const root = ReactDOM.createRoot(document.getElementById("root"));
 
 root.render(
   <>
-    <Header name="한경숙" title="프론트엔드 프로그래밍 컴포넌트입니다." />
+    <Header name="LYS" title="프론트엔드 프로그래밍 컴포넌트입니다." />
     <Home>
       <Post />
     </Home>
-    <Footer name="한경숙" email="khan@tukorea.ac.kr" />
+    <Footer name="LYS" email="khan@tukorea.ac.kr" />
   </>
 );
